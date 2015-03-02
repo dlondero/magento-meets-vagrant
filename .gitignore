@@ -1,0 +1,6 @@
+/magento/*
+/.vagrant
+/puppet/.tmp
+/puppet/modules/*
+!/puppet/modules/.gitkeep
+/puppet/Puppetfile.lock
